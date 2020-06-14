@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url("../fonts/Gilroy-Bold.ttf");
+}
+.gilroy {
+    font-family: "Gilroy-Bold"!important;
+}
+
+@import './normalize.css';
+@import './skeleton.css';
